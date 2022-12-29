@@ -5,9 +5,9 @@ import {schemaTypes} from './schemas'
 
 export default defineConfig({
   name: 'default',
-  title: 'studio',
+  title: 'blockchain - marketplace',
 
-  projectId: 'rkscv3g1',
+  projectId: 'wyfg72i4',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],
